@@ -62,3 +62,10 @@ button {
   text-align: center;
   font-weight: bold;
 }
+
+.p1,
+.p2,
+.p3 {
+  width: 100%;
+  word-wrap: break-word;
+}
